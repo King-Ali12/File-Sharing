@@ -23,7 +23,13 @@ It launches silently — no console noise, no setup headaches — and presents a
 ---
 
 ### 🧩 Setup (Developer Mode)
-1. Clone this repository  
+1. First Install Python:
+   INSTALL LATEST VERSION OF PYTHON IN WINDOW
+  
+3. Clone this repository  
    ```bash
    git clone https://github.com/YourName/SilentShare-LAN-Tool.git
    cd SilentShare-LAN-Tool
+4. Install Requirement Packages   
+   ```bash
+   pip install flask colorama
