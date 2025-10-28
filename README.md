@@ -1,10 +1,10 @@
-# ✨ SilentShare LAN Tool ✨
+# ✨ FILE SHARING ✨
 *A sleek, secure, local‑network file‑sharing web app — built in Python with Flask.*
 
 ---
 
 ### 🌟 Overview
-**SilentShare LAN Tool** lets you share, browse, upload, and download files or entire folders across your local Wi‑Fi/Ethernet network through any web browser.
+**FILE SHARING LAN Tool** lets you share, browse, upload, and download files or entire folders across your local Wi‑Fi/Ethernet network through any web browser.
 
 It launches silently — no console noise, no setup headaches — and presents a clean, gradient UI that works on both desktop and mobile.
 
