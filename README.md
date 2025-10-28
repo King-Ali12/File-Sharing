@@ -28,10 +28,10 @@ It launches silently — no console noise, no setup headaches — and presents a
   
 3. Clone this repository  
    ```bash
-   git clone https://github.com/King-Ali12/Pc-File-Transfer
+   git clone https://github.com/King-Ali12/File-Sharing
 4. Install Requirement Packages   
    ```bash
    pip install flask colorama
 
-5. Goto Pc-File-Transfer Directy Here Double Click on app.exe file
+5. Goto File-Sharing Directy Here Double Click on app.exe file
    After That Start Tool
