@@ -19,8 +19,6 @@ It launches silently — no console noise, no setup headaches — and presents a
 |⬇️ **Download Logic**|Files → direct download; Folders → zipped automatically.|
 |⬆️ **Instant Upload**|Choose a file → auto‑upload without extra clicks.|
 |🗑️ **Deletion Control**|Remove unwanted files or folders directly from the browser.|
-|🔇 **Silent Startup**|Completely hides Flask server banners; shows only a clean banner and your LAN IP.|
-|🔐 **Optional Encryption**|Can be converted to an encrypted EXE with PyInstaller + PyArmor.|
 
 ---
 
